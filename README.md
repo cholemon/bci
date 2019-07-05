@@ -19,7 +19,7 @@
 
 
 # Algunos screenshot de la app
-              
+ Vistas                    |  Vistas
 :-------------------------:|:-------------------------:
 ![](https://downstagram.com/images/1.jpg)  |  ![](https://downstagram.com/images/2.jpg)
 ![](https://downstagram.com/images/3.jpg)  |  ![](https://downstagram.com/images/4.jpg)
