@@ -25,4 +25,4 @@
 ![](https://downstagram.com/images/3.jpg)  |  ![](https://downstagram.com/images/4.jpg)
 
 # Demo
-![Farmers Market Finder Demo](https://downstagram.com/images/vid.gif)
+![](https://downstagram.com/images/vid.gif)
