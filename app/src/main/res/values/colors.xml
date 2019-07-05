@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2e4053</color>
+    <color name="colorPrimaryDark">#566573</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+
+    <color name="clic_one">#2e4053</color>
+    <color name="clic_two">#566573</color>
+
+    <color name="orange">#FF9900</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+
+    <color name="side_one">#283747</color>
+    <color name="center_one">#d5d8dc</color>
+
+    <color name="side_tow">#2980b9</color>
+    <color name="center_tow">#eaf2f8</color>
+
+</resources>

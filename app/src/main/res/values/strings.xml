@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ITUNES SEARCH</string>
+
+    <string name="lbl_titulo">ITUNES SEARCH</string>
+    <string name="lbl_sub_titulo">- Levi A. Hurtado -</string>
+    <string name="hint_txt_busqueda">Ingrese el término de búsqueda</string>
+    <string name="btn_buscar">BUSCAR</string>
+
+    <string name="lbl_error_text">No debe estar vacío este campo</string>
+    <string name="action_search">Buscar</string>
+    <string name="lbl_listado_canciones">Canciones en este album:</string>
+    <string name="lbl_ver_album">VER ALBUM</string>
+    <string name="lbl_preview">PREVIEW</string>
+
+</resources>
