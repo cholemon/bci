@@ -12,6 +12,8 @@
 
 + Así mismo, se implementó la librería Picasso para hacer el render de las imágenes y caché local de las mismas.
 
++ Para el preview, se hace uso del Intent de Android para seleccionar el reproductor del sistema
+
 (Se debe mejorar la forma como se obtiene el estado de la conexión a internet, para no bloquear el hilo principal de la app)
 
 
