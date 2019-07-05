@@ -12,7 +12,7 @@
 
 + Así mismo, se implementó la librería Picasso para hacer el render de las imágenes y caché local de las mismas.
 
-
+(Se debe mejorar la forma como se obtiene el estado de la conexión a internet, para no bloquear el hilo principal de la app)
 
 
 
