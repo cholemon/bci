@@ -1,6 +1,6 @@
-# PRUEBA DE SELECCIÓN - ANDROID DEVELOPER
+# ITUNES SEARCH - ANDROID
 
-### Desarrollo de App Android como proceso de selección a la vacante ANDROID DEVELOPER -  BANCO BCI. [-Desarrollado por Levi Hurtado-]
+### Desarrollo de App Android como proceso de selección a la vacante ANDROID DEVELOPER - BCI. [-Desarrollado por Levi Hurtado-]
 
 + La app puede trabajar tanto de forma Online como Offline. Para ello, se almacenan localmente la data previamente consultada (album - tracks).
 
