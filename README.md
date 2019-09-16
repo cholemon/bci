@@ -1,6 +1,6 @@
 # ITUNES SEARCH - ANDROID
 
-### Desarrollo de App Android como proceso de selección a la vacante ANDROID DEVELOPER - BCI.
+### Desarrollo de App Android.
 
 #### [-By Levi A. Hurtado-]
 + La app puede trabajar tanto de forma Online como Offline. Para ello, se almacenan localmente la data previamente consultada (album - tracks).
